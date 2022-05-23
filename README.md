@@ -3,7 +3,7 @@
 - 🌱 Estudando Java.
 - 🤔 Procurando uma oportunidade de estágio.
 
-<div align="center">
+<div>
   <a href="https://github.com/matheuseterno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuseterno&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuseterno&layout=compact&langs_count=7&theme=chartreuse-dark"/>
